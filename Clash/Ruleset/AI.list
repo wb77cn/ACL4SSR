@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,civitai
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
@@ -49,3 +50,5 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,civitai.red
